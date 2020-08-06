@@ -1,0 +1,1 @@
+In question 1 for bucket sort use the values in range of 0-1.
